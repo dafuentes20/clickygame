@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Utah Jazz",
+    "image": "./assets/images/utahjazz.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "New York Yankees",
+    "image": "./assets/images/yankees.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Seattle Seahawks",
+    "image": "./assets/images/seahawks.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Boston Redsox",
+    "image": "./assets/images/redsox.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Manchester United",
+    "image": "./assets/images/manchester.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Real Madrid",
+    "image": "./assets/images/madrid.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Los Angeles Lakers",
+    "image": "./assets/images/lakers.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Philadelphia Eagles",
+    "image": "./assets/images/eagles.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Boston Celtics",
+    "image": "./assets/images/celtics.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Denver Broncos",
+    "image": "./assets/images/broncos.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Barcelona",
+    "image": "./assets/images/barcelona.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Philadelphia 76ers",
+    "image": "./assets/images/76ers.jpeg"
+  }
+]
